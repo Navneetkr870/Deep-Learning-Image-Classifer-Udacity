@@ -1,7 +1,5 @@
 # Deep Learning - Image Classification
 
-___________________________
-
 
 ### Installations:
 The project has been done in the Anaconda enviroment with python 3.6
